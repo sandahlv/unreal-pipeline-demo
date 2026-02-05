@@ -1,0 +1,18 @@
+# Unreal
+Saved/
+Intermediate/
+DerivedDataCache/
+*.log
+*.pdb
+*.suo
+*.opensdf
+*.sdf
+.vscode/
+.vs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Build output
+build/
